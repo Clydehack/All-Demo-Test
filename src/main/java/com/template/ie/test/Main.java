@@ -1,4 +1,4 @@
-package com.template.ie;
+package com.template.ie.test;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
